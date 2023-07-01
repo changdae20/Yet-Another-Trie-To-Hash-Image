@@ -28,7 +28,7 @@ Indeed, the quantized hash value can be stored and searched efficiently by "Trie
 
 # Paper
 
-**The paper is currently a WIP.**
+##[Link](./Yet-Another-Trie-To-Hash-Image.pdf)
 
 # License
 
